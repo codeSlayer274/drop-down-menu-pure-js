@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+
+}
+
+.N-main-button {
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    user-select: none;
+
+
+}
+
+.O-main-button {
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    user-select: none;
+
+
+}
+
+.P-main-button {
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    user-select: none;
+
+
+}
+
+.R-main-button {
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    user-select: none;
+
+
+}
+
+
+.menu-container {
+}
+
+
+.menu-option:hover {
+    font-weight: bold;
+}
+
+
+.hide {
+    opacity: 0;
+
+}
+
+.menu-option {
+    width: 100px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+}
